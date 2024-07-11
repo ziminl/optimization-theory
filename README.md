@@ -44,3 +44,7 @@ Newton's Method
 
 
 
+#links
+
+https://docs.scipy.org/doc/scipy/reference/optimize.html
+
