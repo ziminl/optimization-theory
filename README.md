@@ -6,6 +6,8 @@ optimal solution finding
 
 
 
+#list
+
 Linear programming (simplex method)
 
 Non-linear programming (one-dimensional minimization method, unconstrained optimization technique, constrained optimization technique)
