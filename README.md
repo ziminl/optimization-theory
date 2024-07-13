@@ -51,3 +51,6 @@ Newton's Method
 https://docs.scipy.org/doc/scipy/reference/optimize.html
 
 https://www.youtube.com/watch?v=Vo4icWEoZfg
+
+gradient-descent
+https://www.geeksforgeeks.org/how-to-implement-a-gradient-descent-in-python-to-find-a-local-minimum/
